@@ -1,0 +1,25 @@
+.contenedor {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0 , 1fr));
+  
+   
+}
+
+.cajabarraDeArriba{
+
+    grid-column-start: 2;
+    grid-column-end: 4;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+        
+   
+ 
+
+}
+
+
+    
+    
+
+
+

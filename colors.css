@@ -1,0 +1,43 @@
+:root {
+    --bg-sup: linear-gradient(90deg, #8a26e1 2%, #e32e9f 36%, #e32e9f 67%, #fe3e31 98%);
+}
+
+.bg-sup{ background: var(--bg-sup);}
+
+.bg-primary     { background-color: var(--blue);   }
+.bg-secondary   { background-color: var(--gray);   }
+.bg-tertiary    { background-color: var(--purple); }
+.bg-quaternary  { background-color: var(--warning);}
+
+.txt-white { color: white; }
+
+
+.b-black  { border: 1px solid #000; }
+.b-red    { border: 1px solid #f00; }
+
+
+.background-color-Encabezado{
+    background-image: linear-gradient(to right,#8a26e1,#e32e9f,#e32e9f,#fe3e31);
+}
+
+.background-color-blue{
+    background-color: blue;
+}
+.background-color-white{
+    background-color: white;
+}
+
+.background-color-skyblue{
+    background-color: skyblue;
+}
+.color-white{
+    color: white;
+}
+
+.color-rosado{
+    color: #8a26e1;
+}
+
+.background-color-negro{
+    background-color: #000;
+}

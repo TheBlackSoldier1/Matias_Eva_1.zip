@@ -1,0 +1,22 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.btn-ingresar{
+    
+    background-color: transparent;
+}
+
+.btn-registrate{
+    
+    background-color: transparent;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+
+}
